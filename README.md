@@ -10,7 +10,7 @@ https://hyungonn.github.io/LikeLion_13th_DataCourse/
     * div, span, ul, ol, li tag [link](https://github.com/HyungonN/LikeLion_13th_DataCourse/blob/main/web_html/20210903_exp4_Div_span.html)
    
  - CSS 기본 이해
-    * toy project - 나의 갤러리 만들기 [link](https://hyungonn.github.io/LikeLion_13th_DataCourse/)[code](https://github.com/HyungonN/LikeLion_13th_DataCourse/blob/main/web_html/20210903_exp4_Div_span.html)
+    * toy project - 나의 갤러리 만들기 [link](https://hyungonn.github.io/LikeLion_13th_DataCourse/02_css_gallery/css_practice/10css_gallery.html) [code](https://github.com/HyungonN/LikeLion_13th_DataCourse/blob/main/web_html/20210903_exp4_Div_span.html)
    
 
 https://hyungonn.github.io/LikeLion_13th_DataCourse/
