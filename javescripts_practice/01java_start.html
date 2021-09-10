@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+
+<body>
+<p id="p1">여기의 내용이 변경됩니다. </p>
+<p id="p2">여기의 내용도 바뀝니다.</p>
+<a>링크 내용 </a><br><br>
+<button onclick="ch()"> 버튼1은 이거지롱</button>
+<button onclick="ch2()"> 버튼2</button>
+<script>
+    function ch() {
+     /* p태그 요소 가져와서 내용 변경하는 한줄코드 */
+     document.getElementById("p1").innerHTML = "변경된 내용"
+     }
+     function ch2() {
+     /* p태그 요소 가져와서 내용 변경하는 한줄코드 */
+     document.getElementById("p2").innerHTML = "안뇽"
+     }
+</script>
+
+</body>
+</html>
