@@ -22,3 +22,4 @@ https://hyungonn.github.io/LikeLion_13th_DataCourse/
  - Folium
   서울 맛집 5곳[link](https://hyungonn.github.io/LikeLion_13th_DataCourse/08_folium/matzip_5.html) [code](https://github.com/HyungonN/LikeLion_13th_DataCourse/blob/main/08_folium/matzip_5.html)
   꼬따오 여행포인트 5곳[link](https://hyungonn.github.io/LikeLion_13th_DataCourse/08_folium/kohtao_5.html) [code](https://github.com/HyungonN/LikeLion_13th_DataCourse/blob/main/08_folium/kohtao_5.html)
+  제주도 지형지물 100곳[link](https://hyungonn.github.io/LikeLion_13th_DataCourse/08_folium/제주지형_100.html)[code](https://github.com/HyungonN/LikeLion_13th_DataCourse/blob/main/08_folium/20210921_folium_practice.ipynb)
