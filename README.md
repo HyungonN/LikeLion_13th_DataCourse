@@ -14,3 +14,6 @@ https://hyungonn.github.io/LikeLion_13th_DataCourse/
    * toy project - 나의 갤러리 만들기 [link](https://hyungonn.github.io/LikeLion_13th_DataCourse/02_css_gallery/css_practice/10css_gallery.html) [code](https://github.com/HyungonN/LikeLion_13th_DataCourse/blob/main/02_css_gallery/css_practice/10css_gallery.html)
    
 
+ - Pliot_project_1
+   서울-하와이 왕복 비행기 가격 구하기[link](https://hyungonn.github.io/LikeLion_13th_DataCourse/05_pliot_project_1_web_data/hawaii_flight_done.ipynb) [code](https://github.com/HyungonN/LikeLion_13th_DataCourse/blob/main/05_pliot_project_1_web_data/hawaii_flight_done.ipynb)
+   
